@@ -1,6 +1,8 @@
 # Advent Of Code 2019
 My solutions for Advent of Code 2019!
 
+A new set of challenges is released every day until December 25th
+
 https://adventofcode.com/2019
 
 - [X] Day 1
